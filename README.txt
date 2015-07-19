@@ -3,3 +3,5 @@ Project is developed using Visual Studio 2013 Express.
 
 
 Visit https://www.youtube.com/channel/UC1VCuqH0NGwyUA2WqEoQh_Q for game/software development, programming and other tutorials.
+
+This project is licensed under the terms of the MIT license.
